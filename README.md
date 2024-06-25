@@ -2,9 +2,10 @@
 <h1 align="center"><b>Hi, I'm <a href="https://torresabraham.github.io">Abraham de Torres </a></b>👋
 <br><br>
 
-![https://github.com/torresabraham](./logotype.png)
+![https://github.com/torresabraham](./media/logotype.png)
+![https://github.com/torresabraham](./media/hacker-gif.gif)
 	
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
+## <picture><img src = "https://github.com/torresabraham/torresabraham/blob/main/media/hacker-gif.gif" width = 50px></picture> **About me**
 
 
 - A passionate Self-taught Front-end developer
