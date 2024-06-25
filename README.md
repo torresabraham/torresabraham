@@ -10,7 +10,7 @@
 - Lover of nature and sports in free time.
 - Currently studying Web Application Development (DAW)
 - Personal website [link](https://torresabraham.github.io)
-- Open to an internship or a new job opportunity, this is [my cv](https://read.cv/0xabdulkhalid)
+- Open to an internship or a new job opportunity, this is [my cv](./media/Currículum Abraham Informática-2024.pdf)
 <br><br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
