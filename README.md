@@ -3,17 +3,14 @@
 <br><br>
 
 ![https://github.com/torresabraham](./media/logotype.png)
-![https://github.com/torresabraham](./media/hacker-gif.gif)
 	
 ## <picture><img src = "https://github.com/torresabraham/torresabraham/blob/main/media/hacker-gif.gif" width = 50px></picture> **About me**
 
-
-- A passionate Self-taught Front-end developer
-- Playing CTF's at spare time
-- Currently learning Web Development by Self
+- A passionate front-end developer
+- Lover of nature and sports in free time.
+- Currently studying Web Application Development (DAW)
 - Personal website [link](https://torresabraham.github.io)
-- I’m currently open for an Intern or a new job opportunity, this is [my cv](https://read.cv/0xabdulkhalid)
-
+- Open to an internship or a new job opportunity, this is [my cv](https://read.cv/0xabdulkhalid)
 <br><br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
