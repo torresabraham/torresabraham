@@ -4,7 +4,7 @@
 
 ![https://github.com/torresabraham](./media/logotype.png)
 	
-## <picture><img src = "https://github.com/torresabraham/torresabraham/blob/main/media/hacker-gif.gif" width = 50px></picture> **About me**
+## <picture><img src = "https://github.com/torresabraham/torresabraham/blob/main/media/hacker-gif.gif" width = 40px></picture> **About me**
 
 - A passionate front-end developer
 - Lover of nature and sports in free time.
@@ -49,14 +49,41 @@
     ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&labelColor=4479A1&logoColor=FFF)
 
 <br><br> 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
+## <picture><img src = "https://github.com/torresabraham/torresabraham/blob/main/media/gif-stats.gif" width = 35px></picture> **Github Stats**
 <br>
 <div align="center">
 <a href="https://github.com/torresabraham/">
   <img src="https://github-readme-stats.vercel.app/api?username=torresabraham&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=torresabraham&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=torresabraham&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="418"/>
 </a>
 </div>
+<br>
+
+## <b>Projects</b>
+<br>
+
+- **Project 1**: [Project Name](https://github.com/torresabraham/project1)
+  - Description: A brief description of what the project is about and what technologies it uses.
+  
+- **Project 2**: [Project Name](https://github.com/torresabraham/project2)
+  - Description: A brief description of what the project is about and what technologies it uses.
+  
+- **Project 3**: [Project Name](https://github.com/torresabraham/project3)
+  - Description: A brief description of what the project is about and what technologies it uses.
+
+<br>
+<br>
+
+## <b>Certifications</b>
+<br>
+
+- **Official Certification as a Technician in Microcomputer Systems and Networks (SMR)** from **IES Camp de Morvedre**
+  - Date obtained: 06/23
+  
+- **Official Certification as a Senior Technician in Web Application Development** from **MEDAC Nuevo Torneo**
+  - Date obtained: 06/25
+  
+<br>
 <br>
 
 ## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
