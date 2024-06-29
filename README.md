@@ -57,13 +57,13 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=torresabraham&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="418"/>
 </a>
 </div>
-<br>
 
-## <b>Projects</b>
-<br>
 
-- **Project 1**: [Project Name](https://github.com/torresabraham/project1)
-  - Description: A brief description of what the project is about and what technologies it uses.
+## <picture><img src = "https://github.com/torresabraham/torresabraham/blob/main/media/pro.gif" width = 40px></picture> **Projects**
+
+
+- **Project 1**: [Ghosper](https://github.com/MEDAC-Nuevo-Torneo-Students/Ghosper)
+  - Description: It is a clothing store that includes user access management, etc. with Node.js, shopping cart options, dark mode and search bar with JavaScript, a simple and intuitive interface with HTML5 and CSS3, scalable and responsive.
   
 - **Project 2**: [Project Name](https://github.com/torresabraham/project2)
   - Description: A brief description of what the project is about and what technologies it uses.
