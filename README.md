@@ -10,7 +10,7 @@
 - Lover of nature and sports in free time.
 - Currently studying Web Application Development (DAW)
 - Personal website [link](https://torresabraham.github.io)
-- Open to an internship or a new job opportunity, this is [my cv](./media/Currículum%20Abraham%20Informática-2024.pdf)
+- Open to an internship or a new job opportunity, this is [my cv](./media/Curriculum%20Informático%20Abraham%202024.pdf)
 
 <br>
 
